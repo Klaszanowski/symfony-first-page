@@ -1,8 +1,0 @@
-version: '2.1'
-
-services:
-  symfony-first-page:
-    image: symfony-first-page
-    build: .
-    ports:
-      - 3000:3000

@@ -1,0 +1,3 @@
+number_app:
+  path: /random/number
+  controller: App\Controller\controller::number
